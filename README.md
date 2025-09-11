@@ -4,7 +4,7 @@
 CMOS Circuit Design workshop 25.8-3.9.2025
 
 
-<img width="1194" height="581" alt="image" src="https://github.com/user-attachments/assets/81c972d8-d197-4d79-9f97-9cfbf1eb22f7" />
+<img width="1191" height="580" alt="image" src="https://github.com/user-attachments/assets/81c972d8-d197-4d79-9f97-9cfbf1eb22f7" />
 
 ## Overview
 
