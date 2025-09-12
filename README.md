@@ -26,16 +26,13 @@ Graduates emerge ready to contribute immediately to low‑power IoT nodes, autom
     
 - L1 Why do we need SPICE simulations?
 
-  <
+  
 
   
 - L2 Introduction to basic element in Circuit design – NMOS
 
 
-<img width="1796" height="843" alt="image" src="https://github.com/user-attachments/assets/4a2b07d5-41fa-4d0f-8ab0-1e1bdc3087cd" />
 
-
-<img width="1792" height="842" alt="image" src="https://github.com/user-attachments/assets/ae94c9b3-623f-49a1-bf57-3cbc145b2dd8" />
 
 
 - L3 Strong inversion and threshold voltage
