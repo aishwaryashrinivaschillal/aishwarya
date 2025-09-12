@@ -41,27 +41,15 @@ Graduates emerge ready to contribute immediately to low‑power IoT nodes, autom
 
 - L4 Threshold voltage with positive substrate potential
 
-<img width="1826" height="874" alt="image" src="https://github.com/user-attachments/assets/e2225b29-23c5-44ab-b755-1ca8b1f3f0df" />
- 
- </details>  
-
-<details>			
-<summary>NMOS resistive region and saturation region of operation</summary>
 
 ### NMOS resistive region and saturation region of operation
 
 - L1 Resistive region of operation with small drain-source voltage
 
-<img width="1870" height="839" alt="image" src="https://github.com/user-attachments/assets/dd7b9b01-34bf-4b4d-87e4-a09fdd3ecf95" />
+
 
   
 - L2 Drift current theory
-
-  <img width="1846" height="844" alt="image" src="https://github.com/user-attachments/assets/1084f4e9-1165-4e0b-9911-5ac06fd62210" />
-
-  <img width="1897" height="842" alt="image" src="https://github.com/user-attachments/assets/c3b5b71e-9384-421c-835f-6a3bc39689aa" />
-
-  <img width="1793" height="924" alt="image" src="https://github.com/user-attachments/assets/4a8c0e54-123c-4c55-9798-b72ccb6f872d" />
 
   
 
