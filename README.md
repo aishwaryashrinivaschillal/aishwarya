@@ -37,28 +37,7 @@ Graduates emerge ready to contribute immediately to low‑power IoT nodes, autom
 
 - L3 Strong inversion and threshold voltage
 
-<img width="1792" height="842" alt="image" src="https://github.com/user-attachments/assets/161f760f-5bfe-48a1-90e5-63f95d3bd903" />
 
-
-<img width="1962" height="751" alt="image" src="https://github.com/user-attachments/assets/e42d18c3-4e4c-4ed4-bc7c-5a69278058dd" />
-
-
-<img width="1962" height="751" alt="image" src="https://github.com/user-attachments/assets/bb97050c-5569-494c-9e8f-78d3ace27b85" />
-
-
-<img width="1837" height="843" alt="image" src="https://github.com/user-attachments/assets/04355acb-8a45-4a56-b9b5-b12e9e0c87a3" />
-
-
-<img width="1701" height="844" alt="image" src="https://github.com/user-attachments/assets/2af88005-3543-4eb4-9897-2590d7876ddd" />
-
-<img width="1710" height="828" alt="image" src="https://github.com/user-attachments/assets/70f222c4-c63b-400e-aa56-241fab6c61e4" />
-
-<img width="1704" height="824" alt="image" src="https://github.com/user-attachments/assets/d6b89001-627d-4c45-bf0f-50bd8a733792" />
-
-<img width="1796" height="844" alt="image" src="https://github.com/user-attachments/assets/6e5e4d55-4706-4c58-a9d3-0bbd0d570e05" />
-
-
-<img width="1914" height="926" alt="image" src="https://github.com/user-attachments/assets/bf9a9287-dc70-484c-afda-51883b5d8687" />
 
 - L4 Threshold voltage with positive substrate potential
 
