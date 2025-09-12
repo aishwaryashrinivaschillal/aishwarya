@@ -1,5 +1,4 @@
 
-#aishwarya
 # CMOS-Circuit-Design-workshop
 CMOS Circuit Design workshop 25.8-3.9.2025
 
@@ -31,8 +30,6 @@ Graduates emerge ready to contribute immediately to low‑power IoT nodes, autom
 
   
 - L2 Introduction to basic element in Circuit design – NMOS
-
-<img width="1640" height="693" alt="image" src="https://github.com/user-attachments/assets/504dc4ac-501d-46bc-bcdf-b4803ce765f1" />
 
 
 <img width="1796" height="843" alt="image" src="https://github.com/user-attachments/assets/4a2b07d5-41fa-4d0f-8ab0-1e1bdc3087cd" />
