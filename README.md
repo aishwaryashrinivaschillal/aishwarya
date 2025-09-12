@@ -27,16 +27,7 @@ Graduates emerge ready to contribute immediately to low‑power IoT nodes, autom
     
 - L1 Why do we need SPICE simulations?
 
-  <img width="1005" height="694" alt="image" src="https://github.com/user-attachments/assets/9e6f5f1d-acd9-41bb-b17b-2ab56a2c7949" />
-
-
-  <img width="1425" height="940" alt="image" src="https://github.com/user-attachments/assets/7b2639e7-5e85-4db1-923e-881f9306c85f" />
-
-
-  <img width="1809" height="934" alt="image" src="https://github.com/user-attachments/assets/fa2b335c-e986-491f-b35c-4c90a9b946f0" />
-  
-
-  <img width="1783" height="854" alt="image" src="https://github.com/user-attachments/assets/045d766e-ffd6-4603-814c-e72da1b8e97d" />
+  <
 
   
 - L2 Introduction to basic element in Circuit design – NMOS
