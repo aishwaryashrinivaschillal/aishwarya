@@ -86,45 +86,6 @@ Graduates emerge ready to contribute immediately to low‑power IoT nodes, autom
 
 - **L5 SPICE Lab with sky130 models**
 
-spice simulation with L=2 and W=5, file "day1_nfet_idvds_L2_W5.spice"
-
-to run spice simulation enter "ngspice day1_nfet_idvds_L2_W5.spice"
-
-<img width="892" height="734" alt="image" src="https://github.com/user-attachments/assets/85f386af-c5e9-40ae-9f5b-71ec6aea21fb" />
-
-
-and plot Id over Vdd
-
-
-<img width="1826" height="961" alt="image" src="https://github.com/user-attachments/assets/11ce6a49-584f-4fcd-9eea-dad766299e51" />
-
-
-	
- 	cutoff region
-
-
-<img width="1833" height="967" alt="image" src="https://github.com/user-attachments/assets/92cab910-2929-40a2-9068-b3b21d498e4d" />
-
-
-at 1.3V we have 279 u
-
-``` cmd
-
-ngspice 24 -> 
-x0 = 1.3, y0 = 0.000279104
-
-
-
-```
-
-
-<img width="659" height="252" alt="image" src="https://github.com/user-attachments/assets/a39491e0-80e3-4762-9d05-e98ff13009f4" />
-
-
-
-
-    
- </details> 
 
 ------------------------------------------------------------
 
